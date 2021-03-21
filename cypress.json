@@ -1,0 +1,8 @@
+{
+  "projectId": "fi12ap",
+  "experimentalStudio": true,
+  "video": false,
+  "env": {
+    "REACT_APP_MOVIE_API": "fake_api_key"
+  }
+}
